@@ -23,7 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
-### Контакты: 
+### Связь со мной: 
 [![Telegram Badge](https://img.shields.io/badge/-killa_66-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/killa_66) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:killa669966@gmail.com)
