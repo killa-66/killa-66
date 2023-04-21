@@ -24,5 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ---
+
 ### Контакты: 
-- :mailbox: [![Telegram Badge](https://img.shields.io/badge/-killa_66-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/killa_66) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:killa669966@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-killa_66-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/killa_66) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:killa669966@gmail.com)
