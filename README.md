@@ -22,7 +22,13 @@
 
 ---
 
+### Codewars: 
+![codewars](https://www.codewars.com/users/Killa66/badges/large)
+
+---
+
 ### Связь со мной: 
 [![Telegram Badge](https://img.shields.io/badge/-killa_66-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/killa_66) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:killa669966@gmail.com)
 [![Habr Badge](https://img.shields.io/badge/-Habr-red?style=flat&logo=habr&logoColor=white)](https://https://career.habr.com/killa66)
+
